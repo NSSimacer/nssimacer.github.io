@@ -1,0 +1,1669 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+
+    
+  <url>
+    <loc>https://blog.nssimacer.tech/post/89d31859/</loc>
+    <lastmod>2017-01-01T12:12:28.262Z</lastmod>
+    <data>
+        <display>
+        <title>2016 Year in Review</title>
+        <pubTime>2017-01-01T10:46:32.000Z</pubTime>
+        
+        <tag>Life</tag>
+         
+         
+           
+             
+              <breadCrumb title="Blabbering" url="https://blog.nssimacer.tech/categories/Blabbering/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+    
+    
+  <url>
+    <loc>https://blog.nssimacer.tech/post/4bc356d2/</loc>
+    <lastmod>2016-12-22T12:32:55.704Z</lastmod>
+    <data>
+        <display>
+        <title>The end is always near - 2017 校招不完全记录</title>
+        <pubTime>2016-11-03T02:32:20.000Z</pubTime>
+        
+        <tag>Job</tag>
+         
+        <tag>Interview</tag>
+         
+         
+           
+             
+              <breadCrumb title="Job" url="https://blog.nssimacer.tech/categories/Job/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blog.nssimacer.tech/post/cf3cd3c1/</loc>
+    <lastmod>2016-12-21T00:48:05.127Z</lastmod>
+    <data>
+        <display>
+        <title>在 WAMP 本地部署 PhpStorm 项目</title>
+        <pubTime>2016-12-20T12:21:28.000Z</pubTime>
+        
+        <tag>PHP</tag>
+         
+         
+           
+             
+              <breadCrumb title="PHP" url="https://blog.nssimacer.tech/categories/PHP/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blog.nssimacer.tech/post/3e5a28ce/</loc>
+    <lastmod>2016-12-14T01:19:46.511Z</lastmod>
+    <data>
+        <display>
+        <title>图像通道</title>
+        <pubTime>2015-02-16T09:08:14.000Z</pubTime>
+        
+        <tag>OpenCV</tag>
+         
+         
+           
+             
+              <breadCrumb title="OpenCV" url="https://blog.nssimacer.tech/categories/OpenCV/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blog.nssimacer.tech/post/be38ddb5/</loc>
+    <lastmod>2016-12-13T07:20:51.291Z</lastmod>
+    <data>
+        <display>
+        <title>基于 Windows 环境的 Theano 配置</title>
+        <pubTime>2016-12-12T14:54:53.000Z</pubTime>
+        
+        <tag>Theano</tag>
+         
+        <tag>CUDA</tag>
+         
+         
+           
+             
+              <breadCrumb title="Theano" url="https://blog.nssimacer.tech/categories/Theano/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blog.nssimacer.tech/post/dad6fb8f/</loc>
+    <lastmod>2016-12-11T14:57:29.494Z</lastmod>
+    <data>
+        <display>
+        <title>IT 从业者职业生涯的 Naive 思考</title>
+        <pubTime>2016-12-11T14:55:07.000Z</pubTime>
+        
+        <tag>Blabbering</tag>
+         
+         
+           
+             
+              <breadCrumb title="Blabbering" url="https://blog.nssimacer.tech/categories/Blabbering/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blog.nssimacer.tech/post/40d32e9/</loc>
+    <lastmod>2016-12-05T00:37:44.498Z</lastmod>
+    <data>
+        <display>
+        <title>Python 爬虫初探</title>
+        <pubTime>2016-12-04T07:20:54.000Z</pubTime>
+        
+        <tag>Python</tag>
+         
+         
+           
+             
+              <breadCrumb title="Python" url="https://blog.nssimacer.tech/categories/Python/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+    
+    
+  <url>
+    <loc>https://blog.nssimacer.tech/post/f0ab718f/</loc>
+    <lastmod>2016-12-01T07:37:56.196Z</lastmod>
+    <data>
+        <display>
+        <title>Life is short, we use Hexo</title>
+        <pubTime>2016-11-30T07:33:58.000Z</pubTime>
+        
+        <tag>Hexo</tag>
+         
+         
+           
+             
+              <breadCrumb title="Hexo" url="https://blog.nssimacer.tech/categories/Hexo/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blog.nssimacer.tech/post/48d5fd6a/</loc>
+    <lastmod>2016-12-01T07:37:56.192Z</lastmod>
+    <data>
+        <display>
+        <title>基于 Windows 环境的 Spark 单机配置</title>
+        <pubTime>2016-11-12T02:53:59.000Z</pubTime>
+        
+        <tag>Spark</tag>
+         
+         
+           
+             
+              <breadCrumb title="Spark" url="https://blog.nssimacer.tech/categories/Spark/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blog.nssimacer.tech/post/59d5ae2d/</loc>
+    <lastmod>2016-12-01T07:37:56.190Z</lastmod>
+    <data>
+        <display>
+        <title>将 Octopress 博客恢复到本地</title>
+        <pubTime>2016-07-12T13:48:12.000Z</pubTime>
+        
+        <tag>Octopress</tag>
+         
+         
+           
+             
+              <breadCrumb title="Octopress" url="https://blog.nssimacer.tech/categories/Octopress/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blog.nssimacer.tech/post/670cdba/</loc>
+    <lastmod>2016-12-01T07:37:56.187Z</lastmod>
+    <data>
+        <display>
+        <title>OpenCV 000: Read and Write Images</title>
+        <pubTime>2015-04-09T06:31:54.000Z</pubTime>
+        
+        <tag>Python</tag>
+         
+        <tag>OpenCV</tag>
+         
+         
+           
+             
+              <breadCrumb title="OpenCV" url="https://blog.nssimacer.tech/categories/OpenCV/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blog.nssimacer.tech/post/22c2fc61/</loc>
+    <lastmod>2016-12-01T07:37:56.186Z</lastmod>
+    <data>
+        <display>
+        <title>Exercise 0023: Message Board</title>
+        <pubTime>2015-04-01T14:46:25.000Z</pubTime>
+        
+        <tag>Python</tag>
+         
+        <tag>Exercise</tag>
+         
+         
+           
+             
+              <breadCrumb title="Python" url="https://blog.nssimacer.tech/categories/Python/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blog.nssimacer.tech/post/483de0b4/</loc>
+    <lastmod>2016-12-01T07:37:56.184Z</lastmod>
+    <data>
+        <display>
+        <title>Exercise 0022: Resize Images II</title>
+        <pubTime>2015-03-31T01:42:57.000Z</pubTime>
+        
+        <tag>Python</tag>
+         
+        <tag>Exercise</tag>
+         
+         
+           
+             
+              <breadCrumb title="Python" url="https://blog.nssimacer.tech/categories/Python/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blog.nssimacer.tech/post/17db024d/</loc>
+    <lastmod>2016-12-01T07:37:56.183Z</lastmod>
+    <data>
+        <display>
+        <title>Exercise 0021: Encrypt Password</title>
+        <pubTime>2015-03-30T08:03:53.000Z</pubTime>
+        
+        <tag>Python</tag>
+         
+        <tag>Exercise</tag>
+         
+         
+           
+             
+              <breadCrumb title="Python" url="https://blog.nssimacer.tech/categories/Python/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blog.nssimacer.tech/post/a164e490/</loc>
+    <lastmod>2016-12-01T07:37:56.180Z</lastmod>
+    <data>
+        <display>
+        <title>Exercise 0020: Total Call Time</title>
+        <pubTime>2015-03-29T04:10:30.000Z</pubTime>
+        
+        <tag>Python</tag>
+         
+        <tag>Exercise</tag>
+         
+         
+           
+             
+              <breadCrumb title="Python" url="https://blog.nssimacer.tech/categories/Python/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blog.nssimacer.tech/post/3638f6f3/</loc>
+    <lastmod>2016-12-01T07:37:56.178Z</lastmod>
+    <data>
+        <display>
+        <title>Exercise 0018: Write Excel Data to XML II</title>
+        <pubTime>2015-03-27T04:53:31.000Z</pubTime>
+        
+        <tag>Python</tag>
+         
+        <tag>Exercise</tag>
+         
+         
+           
+             
+              <breadCrumb title="Python" url="https://blog.nssimacer.tech/categories/Python/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blog.nssimacer.tech/post/c5e06ee1/</loc>
+    <lastmod>2016-12-01T07:37:56.176Z</lastmod>
+    <data>
+        <display>
+        <title>Exercise 0019: Write Excel Data to XML III</title>
+        <pubTime>2015-03-28T13:36:49.000Z</pubTime>
+        
+        <tag>Python</tag>
+         
+        <tag>Exercise</tag>
+         
+         
+           
+             
+              <breadCrumb title="Python" url="https://blog.nssimacer.tech/categories/Python/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blog.nssimacer.tech/post/1a7b641/</loc>
+    <lastmod>2016-12-01T07:37:56.173Z</lastmod>
+    <data>
+        <display>
+        <title>Exercise 0016: Write Data to Excel III</title>
+        <pubTime>2015-03-25T10:20:32.000Z</pubTime>
+        
+        <tag>Python</tag>
+         
+        <tag>Exercise</tag>
+         
+         
+           
+             
+              <breadCrumb title="Python" url="https://blog.nssimacer.tech/categories/Python/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blog.nssimacer.tech/post/f9951be2/</loc>
+    <lastmod>2016-12-01T07:37:56.171Z</lastmod>
+    <data>
+        <display>
+        <title>Exercise 0017: Write Excel Data to XML</title>
+        <pubTime>2015-03-26T07:04:56.000Z</pubTime>
+        
+        <tag>Python</tag>
+         
+        <tag>Exercise</tag>
+         
+         
+           
+             
+              <breadCrumb title="Python" url="https://blog.nssimacer.tech/categories/Python/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blog.nssimacer.tech/post/4640817d/</loc>
+    <lastmod>2016-12-01T07:37:56.169Z</lastmod>
+    <data>
+        <display>
+        <title>Exercise 0015: Write Data to Excel II</title>
+        <pubTime>2015-03-24T15:38:46.000Z</pubTime>
+        
+        <tag>Python</tag>
+         
+        <tag>Exercise</tag>
+         
+         
+           
+             
+              <breadCrumb title="Python" url="https://blog.nssimacer.tech/categories/Python/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blog.nssimacer.tech/post/e5db8cd1/</loc>
+    <lastmod>2016-12-01T07:37:56.167Z</lastmod>
+    <data>
+        <display>
+        <title>Exercise 0014: Write Data to Excel</title>
+        <pubTime>2015-03-23T09:05:09.000Z</pubTime>
+        
+        <tag>Python</tag>
+         
+        <tag>Exercise</tag>
+         
+         
+           
+             
+              <breadCrumb title="Python" url="https://blog.nssimacer.tech/categories/Python/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blog.nssimacer.tech/post/f4e58dd3/</loc>
+    <lastmod>2016-12-01T07:37:56.165Z</lastmod>
+    <data>
+        <display>
+        <title>Exercise 0013: Picture Spider</title>
+        <pubTime>2015-03-22T09:29:45.000Z</pubTime>
+        
+        <tag>Python</tag>
+         
+        <tag>Exercise</tag>
+         
+         
+           
+             
+              <breadCrumb title="Python" url="https://blog.nssimacer.tech/categories/Python/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blog.nssimacer.tech/post/97d667b2/</loc>
+    <lastmod>2016-12-01T07:37:56.163Z</lastmod>
+    <data>
+        <display>
+        <title>Exercise 0012: Replace Sensitive Words</title>
+        <pubTime>2015-03-21T08:49:18.000Z</pubTime>
+        
+        <tag>Python</tag>
+         
+        <tag>Exercise</tag>
+         
+         
+           
+             
+              <breadCrumb title="Python" url="https://blog.nssimacer.tech/categories/Python/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blog.nssimacer.tech/post/b76f7f9f/</loc>
+    <lastmod>2016-12-01T07:37:56.161Z</lastmod>
+    <data>
+        <display>
+        <title>Exercise 0009: Find HTML Anchors</title>
+        <pubTime>2015-03-18T12:37:05.000Z</pubTime>
+        
+        <tag>Python</tag>
+         
+        <tag>Exercise</tag>
+         
+         
+           
+             
+              <breadCrumb title="Python" url="https://blog.nssimacer.tech/categories/Python/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blog.nssimacer.tech/post/de9b868b/</loc>
+    <lastmod>2016-12-01T07:37:56.159Z</lastmod>
+    <data>
+        <display>
+        <title>Exercise 0011: Sensitive Words</title>
+        <pubTime>2015-03-20T15:54:40.000Z</pubTime>
+        
+        <tag>Python</tag>
+         
+        <tag>Exercise</tag>
+         
+         
+           
+             
+              <breadCrumb title="Python" url="https://blog.nssimacer.tech/categories/Python/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blog.nssimacer.tech/post/14799aeb/</loc>
+    <lastmod>2016-12-01T07:37:56.158Z</lastmod>
+    <data>
+        <display>
+        <title>Exercise 0010: Generate CAPTCHA</title>
+        <pubTime>2015-03-19T12:36:53.000Z</pubTime>
+        
+        <tag>Python</tag>
+         
+        <tag>Exercise</tag>
+         
+         
+           
+             
+              <breadCrumb title="Python" url="https://blog.nssimacer.tech/categories/Python/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blog.nssimacer.tech/post/1910e7eb/</loc>
+    <lastmod>2016-12-01T07:37:56.156Z</lastmod>
+    <data>
+        <display>
+        <title>Exercise 0008: Find HTML Content</title>
+        <pubTime>2015-03-17T02:33:37.000Z</pubTime>
+        
+        <tag>Python</tag>
+         
+        <tag>Exercise</tag>
+         
+         
+           
+             
+              <breadCrumb title="Python" url="https://blog.nssimacer.tech/categories/Python/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blog.nssimacer.tech/post/c23ce736/</loc>
+    <lastmod>2016-12-01T07:37:56.155Z</lastmod>
+    <data>
+        <display>
+        <title>Exercise 0007: Code Counter</title>
+        <pubTime>2015-03-10T07:12:19.000Z</pubTime>
+        
+        <tag>Python</tag>
+         
+        <tag>Exercise</tag>
+         
+         
+           
+             
+              <breadCrumb title="Python" url="https://blog.nssimacer.tech/categories/Python/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blog.nssimacer.tech/post/d958c450/</loc>
+    <lastmod>2016-12-01T07:37:56.152Z</lastmod>
+    <data>
+        <display>
+        <title>Exercise 0006: Key Word in a Diary</title>
+        <pubTime>2015-03-09T14:27:19.000Z</pubTime>
+        
+        <tag>Python</tag>
+         
+        <tag>Exercise</tag>
+         
+         
+           
+             
+              <breadCrumb title="Python" url="https://blog.nssimacer.tech/categories/Python/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blog.nssimacer.tech/post/727f0a14/</loc>
+    <lastmod>2016-12-01T07:37:56.150Z</lastmod>
+    <data>
+        <display>
+        <title>Exercise 0005: Resize Images</title>
+        <pubTime>2015-03-08T13:38:15.000Z</pubTime>
+        
+        <tag>Python</tag>
+         
+        <tag>Exercise</tag>
+         
+         
+           
+             
+              <breadCrumb title="Python" url="https://blog.nssimacer.tech/categories/Python/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blog.nssimacer.tech/post/d89ebfac/</loc>
+    <lastmod>2016-12-01T07:37:56.149Z</lastmod>
+    <data>
+        <display>
+        <title>Exercise 0004: Words Counter</title>
+        <pubTime>2015-03-07T09:14:51.000Z</pubTime>
+        
+        <tag>Python</tag>
+         
+        <tag>Exercise</tag>
+         
+         
+           
+             
+              <breadCrumb title="Python" url="https://blog.nssimacer.tech/categories/Python/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blog.nssimacer.tech/post/a8f45659/</loc>
+    <lastmod>2016-12-01T07:37:56.147Z</lastmod>
+    <data>
+        <display>
+        <title>Redis On Windows</title>
+        <pubTime>2015-03-06T08:09:33.000Z</pubTime>
+        
+        <tag>Redis</tag>
+         
+         
+           
+             
+              <breadCrumb title="Redis" url="https://blog.nssimacer.tech/categories/Redis/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blog.nssimacer.tech/post/ecf2827/</loc>
+    <lastmod>2016-12-01T07:37:56.146Z</lastmod>
+    <data>
+        <display>
+        <title>Exercise 0003: Save Coupons to Redis</title>
+        <pubTime>2015-03-06T08:10:05.000Z</pubTime>
+        
+        <tag>Python</tag>
+         
+        <tag>Exercise</tag>
+         
+         
+           
+             
+              <breadCrumb title="Python" url="https://blog.nssimacer.tech/categories/Python/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blog.nssimacer.tech/post/be2a9ea8/</loc>
+    <lastmod>2016-12-01T07:37:56.144Z</lastmod>
+    <data>
+        <display>
+        <title>Exercise 0002: Save Coupons to MySQL Database</title>
+        <pubTime>2015-03-05T12:06:54.000Z</pubTime>
+        
+        <tag>Python</tag>
+         
+        <tag>Exercise</tag>
+         
+         
+           
+             
+              <breadCrumb title="Python" url="https://blog.nssimacer.tech/categories/Python/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blog.nssimacer.tech/post/8775b08e/</loc>
+    <lastmod>2016-12-01T07:37:56.142Z</lastmod>
+    <data>
+        <display>
+        <title>Exercise 0001: Generate Coupons</title>
+        <pubTime>2015-02-18T03:19:10.000Z</pubTime>
+        
+        <tag>Python</tag>
+         
+        <tag>Exercise</tag>
+         
+         
+           
+             
+              <breadCrumb title="Python" url="https://blog.nssimacer.tech/categories/Python/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blog.nssimacer.tech/post/94c77123/</loc>
+    <lastmod>2016-12-01T07:37:56.138Z</lastmod>
+    <data>
+        <display>
+        <title>Exercise 0000: Add Number to Avatar</title>
+        <pubTime>2015-02-14T13:30:59.000Z</pubTime>
+        
+        <tag>Python</tag>
+         
+        <tag>Exercise</tag>
+         
+         
+           
+             
+              <breadCrumb title="Python" url="https://blog.nssimacer.tech/categories/Python/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blog.nssimacer.tech/post/666c61e3/</loc>
+    <lastmod>2016-12-01T07:37:56.136Z</lastmod>
+    <data>
+        <display>
+        <title>LeetCode-Python: Excel Sheet Column Title</title>
+        <pubTime>2015-02-12T14:09:52.000Z</pubTime>
+        
+        <tag>LeetCode</tag>
+         
+        <tag>Python</tag>
+         
+         
+           
+             
+              <breadCrumb title="LeetCode" url="https://blog.nssimacer.tech/categories/LeetCode/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blog.nssimacer.tech/post/68dbada3/</loc>
+    <lastmod>2016-12-01T07:37:56.134Z</lastmod>
+    <data>
+        <display>
+        <title>LeetCode-Python: Compare Version Numbers</title>
+        <pubTime>2015-02-12T14:10:32.000Z</pubTime>
+        
+        <tag>LeetCode</tag>
+         
+        <tag>Python</tag>
+         
+         
+           
+             
+              <breadCrumb title="LeetCode" url="https://blog.nssimacer.tech/categories/LeetCode/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blog.nssimacer.tech/post/d58df1b8/</loc>
+    <lastmod>2016-12-01T07:37:56.131Z</lastmod>
+    <data>
+        <display>
+        <title>LeetCode-Python: Factorial Trailing Zeroes</title>
+        <pubTime>2015-02-10T06:25:58.000Z</pubTime>
+        
+        <tag>LeetCode</tag>
+         
+        <tag>Python</tag>
+         
+         
+           
+             
+              <breadCrumb title="LeetCode" url="https://blog.nssimacer.tech/categories/LeetCode/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blog.nssimacer.tech/post/fb21ea2b/</loc>
+    <lastmod>2016-12-01T07:37:56.130Z</lastmod>
+    <data>
+        <display>
+        <title>LeetCode-Python: Majority Element</title>
+        <pubTime>2015-02-09T02:25:16.000Z</pubTime>
+        
+        <tag>LeetCode</tag>
+         
+        <tag>Python</tag>
+         
+         
+           
+             
+              <breadCrumb title="LeetCode" url="https://blog.nssimacer.tech/categories/LeetCode/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blog.nssimacer.tech/post/cc1d4c63/</loc>
+    <lastmod>2016-12-01T07:37:56.128Z</lastmod>
+    <data>
+        <display>
+        <title>LeetCode-Python: Reverse Integer</title>
+        <pubTime>2015-02-08T10:05:24.000Z</pubTime>
+        
+        <tag>LeetCode</tag>
+         
+        <tag>Python</tag>
+         
+         
+           
+             
+              <breadCrumb title="LeetCode" url="https://blog.nssimacer.tech/categories/LeetCode/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blog.nssimacer.tech/post/9a02e519/</loc>
+    <lastmod>2016-12-01T07:37:56.126Z</lastmod>
+    <data>
+        <display>
+        <title>LeetCode-Python: Palindrome Number</title>
+        <pubTime>2015-02-08T10:06:16.000Z</pubTime>
+        
+        <tag>LeetCode</tag>
+         
+        <tag>Python</tag>
+         
+         
+           
+             
+              <breadCrumb title="LeetCode" url="https://blog.nssimacer.tech/categories/LeetCode/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blog.nssimacer.tech/post/498c58d0/</loc>
+    <lastmod>2016-12-01T07:37:56.123Z</lastmod>
+    <data>
+        <display>
+        <title>LeetCode-Python: ZigZag Conversion</title>
+        <pubTime>2015-02-06T13:50:34.000Z</pubTime>
+        
+        <tag>LeetCode</tag>
+         
+        <tag>Python</tag>
+         
+         
+           
+             
+              <breadCrumb title="LeetCode" url="https://blog.nssimacer.tech/categories/LeetCode/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blog.nssimacer.tech/post/cdd271c8/</loc>
+    <lastmod>2016-12-01T07:37:56.120Z</lastmod>
+    <data>
+        <display>
+        <title>What Causes Image Blur?</title>
+        <pubTime>2015-02-05T09:40:13.000Z</pubTime>
+        
+        <tag>Deblurring</tag>
+         
+        <tag>CV</tag>
+         
+        <tag>Image Blur</tag>
+         
+         
+           
+             
+              <breadCrumb title="Deblurring" url="https://blog.nssimacer.tech/categories/Deblurring/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blog.nssimacer.tech/post/e18b5aed/</loc>
+    <lastmod>2016-12-01T07:37:56.118Z</lastmod>
+    <data>
+        <display>
+        <title>在 Octopress 中加入 MathJax，支持 LaTeX 公式 </title>
+        <pubTime>2015-02-05T12:26:34.000Z</pubTime>
+        
+        <tag>Octopress</tag>
+         
+        <tag>MathJax</tag>
+         
+         
+           
+             
+              <breadCrumb title="Octopress" url="https://blog.nssimacer.tech/categories/Octopress/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blog.nssimacer.tech/post/369cd95f/</loc>
+    <lastmod>2016-12-01T07:37:56.115Z</lastmod>
+    <data>
+        <display>
+        <title>Problem on Jekyll and Pygments</title>
+        <pubTime>2015-02-04T08:15:14.000Z</pubTime>
+        
+        <tag>Octopress</tag>
+         
+        <tag>Jekyll</tag>
+         
+        <tag>Pygments</tag>
+         
+         
+           
+             
+              <breadCrumb title="Octopress" url="https://blog.nssimacer.tech/categories/Octopress/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blog.nssimacer.tech/post/948115bc/</loc>
+    <lastmod>2016-12-01T07:37:56.111Z</lastmod>
+    <data>
+        <display>
+        <title>LeetCode-Python: Longest Substring Without Repeating Characters</title>
+        <pubTime>2015-02-04T07:40:04.000Z</pubTime>
+        
+        <tag>LeetCode</tag>
+         
+        <tag>Python</tag>
+         
+         
+           
+             
+              <breadCrumb title="LeetCode" url="https://blog.nssimacer.tech/categories/LeetCode/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blog.nssimacer.tech/post/a7eb85d0/</loc>
+    <lastmod>2016-12-01T07:37:56.109Z</lastmod>
+    <data>
+        <display>
+        <title>LeetCode-Python: Add Two Numbers</title>
+        <pubTime>2015-02-03T07:39:43.000Z</pubTime>
+        
+        <tag>LeetCode</tag>
+         
+        <tag>Python</tag>
+         
+         
+           
+             
+              <breadCrumb title="LeetCode" url="https://blog.nssimacer.tech/categories/LeetCode/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blog.nssimacer.tech/post/dbf88cc7/</loc>
+    <lastmod>2016-12-01T07:37:56.107Z</lastmod>
+    <data>
+        <display>
+        <title>把 Octopress 博客同时托管在 GitHub 和 GitCafe 上</title>
+        <pubTime>2015-02-04T08:36:15.000Z</pubTime>
+        
+        <tag>Octopress</tag>
+         
+        <tag>GitHub</tag>
+         
+        <tag>GitCafe</tag>
+         
+         
+           
+             
+              <breadCrumb title="Octopress" url="https://blog.nssimacer.tech/categories/Octopress/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blog.nssimacer.tech/post/97e5e738/</loc>
+    <lastmod>2016-12-01T07:37:56.105Z</lastmod>
+    <data>
+        <display>
+        <title>LeetCode-Python: Spiral Matrix</title>
+        <pubTime>2015-02-02T03:43:16.000Z</pubTime>
+        
+        <tag>LeetCode</tag>
+         
+        <tag>Python</tag>
+         
+         
+           
+             
+              <breadCrumb title="LeetCode" url="https://blog.nssimacer.tech/categories/LeetCode/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blog.nssimacer.tech/post/a9e7fddc/</loc>
+    <lastmod>2016-12-01T07:37:56.101Z</lastmod>
+    <data>
+        <display>
+        <title>LeetCode-MySQL: Duplicate Emails</title>
+        <pubTime>2015-02-02T03:44:36.000Z</pubTime>
+        
+        <tag>LeetCode</tag>
+         
+        <tag>MySQL</tag>
+         
+        <tag>Database</tag>
+         
+        <tag>SQL</tag>
+         
+         
+           
+             
+              <breadCrumb title="LeetCode" url="https://blog.nssimacer.tech/categories/LeetCode/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blog.nssimacer.tech/post/2283ad5e/</loc>
+    <lastmod>2016-12-01T07:37:56.099Z</lastmod>
+    <data>
+        <display>
+        <title>LeetCode-MySQL: Rank Scores</title>
+        <pubTime>2015-02-02T03:47:35.000Z</pubTime>
+        
+        <tag>LeetCode</tag>
+         
+        <tag>MySQL</tag>
+         
+        <tag>Database</tag>
+         
+        <tag>SQL</tag>
+         
+         
+           
+             
+              <breadCrumb title="LeetCode" url="https://blog.nssimacer.tech/categories/LeetCode/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blog.nssimacer.tech/post/c6fd9a2e/</loc>
+    <lastmod>2016-12-01T07:37:56.095Z</lastmod>
+    <data>
+        <display>
+        <title>LeetCode-MySQL: Customers Who Never Order</title>
+        <pubTime>2015-02-02T03:47:16.000Z</pubTime>
+        
+        <tag>LeetCode</tag>
+         
+        <tag>MySQL</tag>
+         
+        <tag>Database</tag>
+         
+        <tag>SQL</tag>
+         
+         
+           
+             
+              <breadCrumb title="LeetCode" url="https://blog.nssimacer.tech/categories/LeetCode/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blog.nssimacer.tech/post/d28eb233/</loc>
+    <lastmod>2016-12-01T07:37:56.090Z</lastmod>
+    <data>
+        <display>
+        <title>LeetCode-Python: Binary Tree Inorder Traversal</title>
+        <pubTime>2015-02-01T14:23:20.000Z</pubTime>
+        
+        <tag>LeetCode</tag>
+         
+        <tag>Python</tag>
+         
+         
+           
+             
+              <breadCrumb title="LeetCode" url="https://blog.nssimacer.tech/categories/LeetCode/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blog.nssimacer.tech/post/608bc36c/</loc>
+    <lastmod>2016-12-01T07:37:56.087Z</lastmod>
+    <data>
+        <display>
+        <title>在 GitHub 上搭建 Octopress 博客</title>
+        <pubTime>2015-01-30T08:21:52.000Z</pubTime>
+        
+        <tag>Octopress</tag>
+         
+        <tag>GitHub</tag>
+         
+         
+           
+             
+              <breadCrumb title="Octopress" url="https://blog.nssimacer.tech/categories/Octopress/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blog.nssimacer.tech/post/31b01ef7/</loc>
+    <lastmod>2016-12-01T07:37:56.085Z</lastmod>
+    <data>
+        <display>
+        <title>LeetCode-Python: Binary Tree Preorder Traversal</title>
+        <pubTime>2015-01-31T15:14:04.000Z</pubTime>
+        
+        <tag>LeetCode</tag>
+         
+        <tag>Python</tag>
+         
+         
+           
+             
+              <breadCrumb title="LeetCode" url="https://blog.nssimacer.tech/categories/LeetCode/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blog.nssimacer.tech/post/e399609b/</loc>
+    <lastmod>2016-12-01T07:37:56.074Z</lastmod>
+    <data>
+        <display>
+        <title>LeetCode-Python: Rotate Image</title>
+        <pubTime>2015-01-29T15:19:17.000Z</pubTime>
+        
+        <tag>LeetCode</tag>
+         
+        <tag>Python</tag>
+         
+         
+           
+             
+              <breadCrumb title="LeetCode" url="https://blog.nssimacer.tech/categories/LeetCode/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blog.nssimacer.tech/post/67fdd56/</loc>
+    <lastmod>2016-12-01T07:37:56.073Z</lastmod>
+    <data>
+        <display>
+        <title>LeetCode-Python: Insert Interval</title>
+        <pubTime>2015-01-27T15:35:11.000Z</pubTime>
+        
+        <tag>LeetCode</tag>
+         
+        <tag>Python</tag>
+         
+         
+           
+             
+              <breadCrumb title="LeetCode" url="https://blog.nssimacer.tech/categories/LeetCode/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blog.nssimacer.tech/post/f09727f4/</loc>
+    <lastmod>2016-12-01T07:37:56.071Z</lastmod>
+    <data>
+        <display>
+        <title>LeetCode-Python: Unique Binary Search Trees</title>
+        <pubTime>2015-01-26T14:56:23.000Z</pubTime>
+        
+        <tag>LeetCode</tag>
+         
+        <tag>Python</tag>
+         
+         
+           
+             
+              <breadCrumb title="LeetCode" url="https://blog.nssimacer.tech/categories/LeetCode/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blog.nssimacer.tech/post/66ff264b/</loc>
+    <lastmod>2016-12-01T07:37:56.069Z</lastmod>
+    <data>
+        <display>
+        <title>LeetCode-Python: 3Sum</title>
+        <pubTime>2015-01-11T05:17:45.000Z</pubTime>
+        
+        <tag>LeetCode</tag>
+         
+        <tag>Python</tag>
+         
+         
+           
+             
+              <breadCrumb title="LeetCode" url="https://blog.nssimacer.tech/categories/LeetCode/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blog.nssimacer.tech/post/ce145b89/</loc>
+    <lastmod>2016-12-01T07:37:56.067Z</lastmod>
+    <data>
+        <display>
+        <title>LeetCode-MySQL: Employees Earning More Than Their Managers</title>
+        <pubTime>2015-01-16T08:01:09.000Z</pubTime>
+        
+        <tag>LeetCode</tag>
+         
+        <tag>MySQL</tag>
+         
+        <tag>Database</tag>
+         
+        <tag>SQL</tag>
+         
+         
+           
+             
+              <breadCrumb title="LeetCode" url="https://blog.nssimacer.tech/categories/LeetCode/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blog.nssimacer.tech/post/532a90f3/</loc>
+    <lastmod>2016-12-01T07:37:56.064Z</lastmod>
+    <data>
+        <display>
+        <title>LeetCode-MySQL: Second Highest Salary</title>
+        <pubTime>2015-01-11T01:55:10.000Z</pubTime>
+        
+        <tag>LeetCode</tag>
+         
+        <tag>MySQL</tag>
+         
+        <tag>Database</tag>
+         
+        <tag>SQL</tag>
+         
+         
+           
+             
+              <breadCrumb title="LeetCode" url="https://blog.nssimacer.tech/categories/LeetCode/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blog.nssimacer.tech/post/7bd43ca4/</loc>
+    <lastmod>2016-12-01T07:37:56.062Z</lastmod>
+    <data>
+        <display>
+        <title>LeetCode-MySQL: Combine Two Tables</title>
+        <pubTime>2015-01-10T16:18:32.000Z</pubTime>
+        
+        <tag>MySQL</tag>
+         
+        <tag>Database</tag>
+         
+        <tag>SQL</tag>
+         
+         
+           
+             
+              <breadCrumb title="LeetCode" url="https://blog.nssimacer.tech/categories/LeetCode/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blog.nssimacer.tech/post/d43e0801/</loc>
+    <lastmod>2016-12-01T07:37:56.060Z</lastmod>
+    <data>
+        <display>
+        <title>LeetCode-Java: Two Sum</title>
+        <pubTime>2015-01-09T14:45:01.000Z</pubTime>
+        
+        <tag>LeetCode</tag>
+         
+        <tag>Java</tag>
+         
+         
+           
+             
+              <breadCrumb title="LeetCode" url="https://blog.nssimacer.tech/categories/LeetCode/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blog.nssimacer.tech/post/81364454/</loc>
+    <lastmod>2016-12-01T07:37:56.058Z</lastmod>
+    <data>
+        <display>
+        <title>LeetCode-Python: Roman to Integer</title>
+        <pubTime>2015-01-06T19:26:40.000Z</pubTime>
+        
+        <tag>LeetCode</tag>
+         
+        <tag>Python</tag>
+         
+         
+           
+             
+              <breadCrumb title="LeetCode" url="https://blog.nssimacer.tech/categories/LeetCode/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blog.nssimacer.tech/post/c2348b38/</loc>
+    <lastmod>2016-12-01T07:37:56.057Z</lastmod>
+    <data>
+        <display>
+        <title>LeetCode-Python: Find Minimum in Rotated Sorted Array</title>
+        <pubTime>2015-01-03T16:05:54.000Z</pubTime>
+        
+        <tag>LeetCode</tag>
+         
+        <tag>Python</tag>
+         
+         
+           
+             
+              <breadCrumb title="LeetCode" url="https://blog.nssimacer.tech/categories/LeetCode/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blog.nssimacer.tech/post/350712f1/</loc>
+    <lastmod>2016-12-01T07:37:56.056Z</lastmod>
+    <data>
+        <display>
+        <title>LeetCode-Python: Same Tree</title>
+        <pubTime>2015-01-01T16:02:58.000Z</pubTime>
+        
+        <tag>LeetCode</tag>
+         
+        <tag>Python</tag>
+         
+         
+           
+             
+              <breadCrumb title="LeetCode" url="https://blog.nssimacer.tech/categories/LeetCode/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blog.nssimacer.tech/post/75be4e5f/</loc>
+    <lastmod>2016-12-01T07:37:56.052Z</lastmod>
+    <data>
+        <display>
+        <title>LeetCode-Python: Excel Sheet Column Number</title>
+        <pubTime>2015-01-02T12:55:55.000Z</pubTime>
+        
+        <tag>LeetCode</tag>
+         
+        <tag>Python</tag>
+         
+         
+           
+             
+              <breadCrumb title="LeetCode" url="https://blog.nssimacer.tech/categories/LeetCode/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blog.nssimacer.tech/post/fd377caf/</loc>
+    <lastmod>2016-12-01T07:37:56.049Z</lastmod>
+    <data>
+        <display>
+        <title>LeetCode-Python: Best Time to Buy and Sell a Stock II</title>
+        <pubTime>2015-01-02T13:44:15.000Z</pubTime>
+        
+        <tag>LeetCode</tag>
+         
+        <tag>Python</tag>
+         
+         
+           
+             
+              <breadCrumb title="LeetCode" url="https://blog.nssimacer.tech/categories/LeetCode/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blog.nssimacer.tech/post/6e4bcd9d/</loc>
+    <lastmod>2016-12-01T07:37:56.048Z</lastmod>
+    <data>
+        <display>
+        <title>LeetCode-Python: Single Number</title>
+        <pubTime>2015-01-01T14:55:05.000Z</pubTime>
+        
+        <tag>LeetCode</tag>
+         
+        <tag>Python</tag>
+         
+         
+           
+             
+              <breadCrumb title="LeetCode" url="https://blog.nssimacer.tech/categories/LeetCode/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blog.nssimacer.tech/post/ffcb17c/</loc>
+    <lastmod>2016-12-01T07:37:56.044Z</lastmod>
+    <data>
+        <display>
+        <title>LeetCode-Python: Maxinum Depht of Binary Tree</title>
+        <pubTime>2015-01-01T15:30:41.000Z</pubTime>
+        
+        <tag>LeetCode</tag>
+         
+        <tag>Python</tag>
+         
+         
+           
+             
+              <breadCrumb title="LeetCode" url="https://blog.nssimacer.tech/categories/LeetCode/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blog.nssimacer.tech/post/99702c3e/</loc>
+    <lastmod>2016-12-01T07:37:56.042Z</lastmod>
+    <data>
+        <display>
+        <title>LeetCode-Python: Search in Rotated Sorted Array II</title>
+        <pubTime>2014-12-30T16:33:16.000Z</pubTime>
+        
+        <tag>LeetCode</tag>
+         
+        <tag>Python</tag>
+         
+         
+           
+             
+              <breadCrumb title="LeetCode" url="https://blog.nssimacer.tech/categories/LeetCode/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blog.nssimacer.tech/post/91103697/</loc>
+    <lastmod>2016-12-01T07:37:56.028Z</lastmod>
+    <data>
+        <display>
+        <title>LeetCode-Python: Remove Duplicates from Sorted Array II</title>
+        <pubTime>2014-12-28T14:37:17.000Z</pubTime>
+        
+        <tag>LeetCode</tag>
+         
+        <tag>Python</tag>
+         
+         
+           
+             
+              <breadCrumb title="LeetCode" url="https://blog.nssimacer.tech/categories/LeetCode/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blog.nssimacer.tech/post/b1ace7ff/</loc>
+    <lastmod>2016-12-01T07:37:56.026Z</lastmod>
+    <data>
+        <display>
+        <title>LeetCode-Python: Search in Rotated Sorted Array</title>
+        <pubTime>2014-12-29T16:39:50.000Z</pubTime>
+        
+        <tag>LeetCode</tag>
+         
+        <tag>Python</tag>
+         
+         
+           
+             
+              <breadCrumb title="LeetCode" url="https://blog.nssimacer.tech/categories/LeetCode/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blog.nssimacer.tech/post/807a2c9b/</loc>
+    <lastmod>2016-12-01T07:37:56.023Z</lastmod>
+    <data>
+        <display>
+        <title>LeetCode-Python: Remove Duplicates from Sorted Array</title>
+        <pubTime>2014-12-27T12:53:12.000Z</pubTime>
+        
+        <tag>LeetCode</tag>
+         
+        <tag>Python</tag>
+         
+         
+           
+             
+              <breadCrumb title="LeetCode" url="https://blog.nssimacer.tech/categories/LeetCode/"/>
+          
+        </display>
+    </data>
+    </url>
+
+</urlset>

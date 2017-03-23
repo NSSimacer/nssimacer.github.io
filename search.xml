@@ -665,13 +665,9 @@
 <li>系统设计中，如何设计和管理异常；</li>
 <li>算法题：已知函数 $f(n)$,</li>
 </ol>
-<span>$$\begin{aligned}
-f(n) = \left\{\begin{matrix} 0 &amp; p \\ 1 &amp; 1 - p \end{matrix}\right.
-\end{aligned}$$</span><!-- Has MathJax -->
+<p>$$<br>\begin{aligned}<br>f(n) = \left{\begin{matrix} 0 &amp; p \ 1 &amp; 1 - p \end{matrix}\right.<br>\end{aligned}<br>$$</p>
 <p>&emsp;&emsp;如何利用 $f(n)$ 构造 $F(n)$,</p>
-<span>$$\begin{aligned}
-f(n) = \left\{\begin{matrix} 0 &amp; 50\% \\ 1 &amp; 50\% \end{matrix}\right.
-\end{aligned}$$</span><!-- Has MathJax -->
+<p>$$<br>\begin{aligned}<br>f(n) = \left{\begin{matrix} 0 &amp; 50\% \ 1 &amp; 50\% \end{matrix}\right.<br>\end{aligned}<br>$$</p>
 <h4 id="四面"><a href="#四面" class="headerlink" title="四面"></a>四面</h4><p>三面之后，面试官说还需要找个同学跟我聊聊，我以为还是技术面，就把前面几轮没有答好的问题复习了一遍。约好的三点，到三点半还没接到电话，有点慌，后来电话来了，过程不表，就是对着简历过了一下，过程大概 17 分钟。</p>
 <hr>
 <p>能被百度“捞”起来，是蛮惊喜的一件事，之前一次面试由于缺乏工程经验，遗憾无缘 offer. 几轮面试下来，感觉面试官都很 nice, 如果以后能和他们共事，应该会是比较愉快的。</p>
@@ -1358,11 +1354,7 @@ Y   I   R
 <figure class="highlight"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line">body &#123;</div><div class="line">  &gt; div#main &#123;</div></pre></td></tr></table></figure>
 <h3 id="测试"><a href="#测试" class="headerlink" title="测试"></a>测试</h3><p>4.1 整段公式：</p>
 <figure class="highlight tex"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div></pre></td><td class="code"><pre><div class="line"><span class="formula">$$</span></div><div class="line"><span class="tag">\<span class="name">begin</span><span class="string">&#123;align&#125;</span></span></div><div class="line"><span class="tag">\<span class="name">mbox</span><span class="string">&#123;Union: &#125;</span></span> &amp; A<span class="tag">\<span class="name">cup</span></span> B = <span class="tag">\<span class="name">&#123;</span></span>x<span class="tag">\<span class="name">mid</span></span> x<span class="tag">\<span class="name">in</span></span> A <span class="tag">\<span class="name">mbox</span><span class="string">&#123; or &#125;</span></span> x<span class="tag">\<span class="name">in</span></span> B<span class="tag">\<span class="name">&#125;</span></span> <span class="tag">\<span class="name">\</span></span></div><div class="line"><span class="tag">\<span class="name">mbox</span><span class="string">&#123;Concatenation: &#125;</span></span> &amp; A<span class="tag">\<span class="name">circ</span></span> B  = <span class="tag">\<span class="name">&#123;</span></span>xy<span class="tag">\<span class="name">mid</span></span> x<span class="tag">\<span class="name">in</span></span> A <span class="tag">\<span class="name">mbox</span><span class="string">&#123; and &#125;</span></span> y<span class="tag">\<span class="name">in</span></span> B<span class="tag">\<span class="name">&#125;</span></span> <span class="tag">\<span class="name">\</span></span></div><div class="line"><span class="tag">\<span class="name">mbox</span><span class="string">&#123;Star: &#125;</span></span> &amp; A^<span class="tag">\<span class="name">star</span>  = </span><span class="tag">\<span class="name">&#123;</span></span>x_1x_2<span class="tag">\<span class="name">ldots</span></span> x_k <span class="tag">\<span class="name">mid</span></span>  k<span class="tag">\<span class="name">geq</span></span> 0 <span class="tag">\<span class="name">mbox</span><span class="string">&#123; and each &#125;</span></span> x_i<span class="tag">\<span class="name">in</span></span> A<span class="tag">\<span class="name">&#125;</span></span> <span class="tag">\<span class="name">\</span></span></div><div class="line"><span class="tag">\<span class="name">end</span><span class="string">&#123;align&#125;</span></span></div><div class="line">$$</div></pre></td></tr></table></figure>
-<span>$$\begin{align}
-\mbox{Union: } &amp; A\cup B = \{x\mid x\in A \mbox{ or } x\in B\} \\
-\mbox{Concatenation: } &amp; A\circ B  = \{xy\mid x\in A \mbox{ and } y\in B\} \\
-\mbox{Star: } &amp; A^\star  = \{x_1x_2\ldots x_k \mid  k\geq 0 \mbox{ and each } x_i\in A\} \\
-\end{align}$$</span><!-- Has MathJax -->
+<p>$$<br>\begin{align}<br>\mbox{Union: } &amp; A\cup B = {x\mid x\in A \mbox{ or } x\in B} \<br>\mbox{Concatenation: } &amp; A\circ B  = {xy\mid x\in A \mbox{ and } y\in B} \<br>\mbox{Star: } &amp; A^\star  = {x_1x_2\ldots x_k \mid  k\geq 0 \mbox{ and each } x_i\in A} \<br>\end{align}<br>$$</p>
 <p>4.2 行内公式：</p>
 <figure class="highlight tex"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line">If <span class="formula">$a^2=b$</span> and <span class="formula">$b=2$</span>, then the solution must be</div><div class="line">either <span class="formula">$a=+<span class="tag">\<span class="name">sqrt</span><span class="string">&#123;2&#125;</span></span>$</span> or <span class="formula">$a=-<span class="tag">\<span class="name">sqrt</span><span class="string">&#123;2&#125;</span></span>$</span>.</div></pre></td></tr></table></figure>
 <p>If $a^2=b$ and $b=2$, then the solution must be either $a=+\sqrt{2}$ or $a=-\sqrt{2}$.</p>
